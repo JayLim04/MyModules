@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">My Modules</string>
+    <string name="c346">C346 Android Programming</string>
+    <string name="c203">C203 Web development in PHP</string>
+    <string name="c206">C206 Software development process</string>
+    <string name="c218">C218 UI/UX Design for apps</string>
+    <string name="c235">C235 IT Security and Management</string>
+    <string name="module_code">Module Code:</string>
+    <string name="module_name">Module Name:</string>
+    <string name="academic_year">Academic Year:</string>
+    <string name="semester">Semester:</string>
+    <string name="module_credit">Module Credit:</string>
+    <string name="venue">Venue:</string>
+
+
+</resources>
